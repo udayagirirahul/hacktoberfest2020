@@ -30,4 +30,5 @@
      if(n==1){cout<<"0\n";}
      else{cout<<min(min1,min2)<<"\n";}
     }
+     
     }
